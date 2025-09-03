@@ -1,0 +1,15 @@
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\bin\Debug\net8.0\BRIANTERUYA IntroDemo.exe
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\bin\Debug\net8.0\BRIANTERUYA IntroDemo.deps.json
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\bin\Debug\net8.0\BRIANTERUYA IntroDemo.runtimeconfig.json
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\bin\Debug\net8.0\BRIANTERUYA IntroDemo.dll
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\bin\Debug\net8.0\BRIANTERUYA IntroDemo.pdb
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.AssemblyInfoInputs.cache
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.AssemblyInfo.cs
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.csproj.CoreCompileInputs.cache
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.sourcelink.json
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.dll
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\refint\BRIANTERUYA IntroDemo.dll
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.pdb
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\BRIANTERUYA IntroDemo.genruntimeconfig.cache
+D:\Profiles\bnt7728\Desktop\cooked-gang\BRIANTERUYA IntroDemo\obj\Debug\net8.0\ref\BRIANTERUYA IntroDemo.dll
